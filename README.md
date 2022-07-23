@@ -1,6 +1,6 @@
 # CrmFetchXmlToJson
-A devops pipiline utility from dyanmic365 to return fetchxml records in json format.
-we can easliy parse json afterwards to get the varaibles we need.
+A devops pipeline utility for customer engagement to return fetchxml records in json format.
+We can easliy parse json afterwards to get the varaibles we need.
 for example, we can move some data from development crm orginaztion to test or 
 production envirnoment.
 
@@ -8,7 +8,7 @@ production envirnoment.
 <img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/pipelineimag.png" >
 
 # Json Output
-
+```json
 [
   {
     "Key": "ownerid",
@@ -71,3 +71,5 @@ production envirnoment.
     "Value": "0"
   }
 ]
+
+```
