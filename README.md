@@ -3,7 +3,7 @@ A devops pipeline utility for customer engagement to return fetchxml records in 
 We can easliy parse json afterwards to get the varaibles we need.
 for example, we can move some data from development crm orginaztion to test or 
 production envirnoment.
-The json will contain atribute anme and value so we can use it where it need.
+The json will contain atribute name and value so we can use it where it need.
 
 # Usage
 <img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/pipelineimag.png" >
