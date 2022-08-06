@@ -1,7 +1,8 @@
 # CrmFetchXmlToJson
-A devops pipeline utility for customer engagement to return fetchxml records in json format.
+A devops pipeline utility for microsft customer engagement(dataverse) to return fetchxml records in json format.
+the task will return the json string into variable, **$finalcrmjsonstr**, so you can use this in current job.
 We can easliy parse json afterwards to get the varaibles we need.
-for example, we can move some data from development crm orginaztion to test or 
+for example, we can move some configuration data from development orginaztion to test or 
 production envirnoment.
 The json will contain atribute name and value so we can use it where it need.
 
