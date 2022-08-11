@@ -17,6 +17,8 @@ Fetchxml<br />
 Record count (paging large record sets)<br />
 Export as CSV / JSON<br />
 
+# Issues
+For issues (https://github.com/yesadahmed/CrmFetchXmlToJson/issues).
 
 The usage, csv and json format is shown below.
 
