@@ -8,7 +8,7 @@ production envirnoment.
 The usage, csv and json format is shown below.
 
 # Usage
-<img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/pipelineimag.png" >
+<img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/pipeline.PNG" >
 
 # CSV Output
 <img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/csv.PNG" >
