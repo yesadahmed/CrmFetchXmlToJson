@@ -20,7 +20,7 @@ The usage, csv and json format is shown below.
     "Key": "ownerid",
     "Type": "Microsoft.Xrm.Sdk.EntityReference",
     "Id": "d0fca0a6-81d3-e911-a97c-000d3ab3f524",
-    "Name": "# columbusceadmin",
+    "Name": "# newuser",
     "LogicalName": "systemuser",
     "Alias": "",
     "entity": "account",
@@ -37,7 +37,7 @@ The usage, csv and json format is shown below.
     "Value": "fefcf7a5-3da0-ea11-a812-000d3ad91105"
   },
   {
-    "Key": "col_deductablecompany",
+    "Key": "deductablecompany",
     "Type": "System.Boolean",
     "Id": "",
     "Name": "",
@@ -64,7 +64,7 @@ The usage, csv and json format is shown below.
     "LogicalName": "",
     "Alias": "",
     "entity": "account",
-    "Value": "  Arbeidernes Ungdomsfylking (AUF)"
+    "Value": "Mr Lova Lova"
   },
   {
     "Key": "statecode",
