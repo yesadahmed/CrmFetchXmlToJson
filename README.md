@@ -1,12 +1,13 @@
 # CrmFetchXmlToCSVOrJson
-A devops pipeline utility for microsft customer engagement(dataverse) to save fetchxml records in CSV or JSON format.
+A devops pipeline utility for microsft customer engagement(dataverse) to save fetchxml records in CSV or JSON format. <br />
 We can save the file in Publish Artifact folder and later can use the save records to migrate data to some other 
-Crm organization.
+Crm organization. <br />
 for example, we can move some configuration data from development orginaztion to test or 
 production envirnoment.
 
-# Compatibility (online)
-Cusomer engagement online versions<br />
+# Compatibility
+Dynamics365 8/9 <br />
+Customer engagement online versions<br />
 Hosted Azure Agents<br />
 
 
@@ -20,7 +21,8 @@ Export as CSV / JSON<br />
 The usage, csv and json format is shown below.
 
 # Usage
-<img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/pipeline.PNG" >
+<img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/pipeline.PNG" ><br />
+<img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/DROP.png" >
 
 # CSV Output
 <img src="https://raw.githubusercontent.com/yesadahmed/CrmFetchXmlToJson/main/csv.PNG" >
