@@ -5,6 +5,19 @@ Crm organization.
 for example, we can move some configuration data from development orginaztion to test or 
 production envirnoment.
 
+# Compatibility (online)
+Dynamics 365 8/9
+Cusomer engagement online
+Hosted Azure Agents
+
+
+# Parameters
+OAUth Crm connection string
+Fetchxml
+Record count (paging large record sets)
+Export as CSV / JSON
+
+
 The usage, csv and json format is shown below.
 
 # Usage
