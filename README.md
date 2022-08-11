@@ -6,16 +6,15 @@ for example, we can move some configuration data from development orginaztion to
 production envirnoment.
 
 # Compatibility (online)
-Dynamics 365 8/9
-Cusomer engagement online
-Hosted Azure Agents
+Cusomer engagement online versions<br />
+Hosted Azure Agents<br />
 
 
 # Parameters
-OAUth Crm connection string
-Fetchxml
-Record count (paging large record sets)
-Export as CSV / JSON
+OAUth Crm connection string<br />
+Fetchxml<br />
+Record count (paging large record sets)<br />
+Export as CSV / JSON<br />
 
 
 The usage, csv and json format is shown below.
